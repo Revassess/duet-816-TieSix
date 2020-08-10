@@ -6,4 +6,4 @@ script: ./build.sh
 notifications:
     email:
     #enter your email address below
-        - anthony.guilford@revature.net
+        - guilfora10@gmail.com

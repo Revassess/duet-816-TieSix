@@ -1,1 +1,1 @@
-select * from public.app_user, public.study_set where user_id = 5;
+select * from public.app_user, public.study_set where role_id = 5 and owner_id = 5;
