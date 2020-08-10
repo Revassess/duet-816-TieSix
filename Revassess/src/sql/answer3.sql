@@ -1,0 +1,1 @@
+select * from public.app_user, public.study_set where user_id = 5;
