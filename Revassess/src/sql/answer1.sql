@@ -1,0 +1,1 @@
+select * from public.app_user where role_id = 3;
